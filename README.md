@@ -5,3 +5,7 @@ This api will be focused for now on learning more about how to structure a good 
 ### Get ready with this api
 -  First of all you have to install python, more specifically <a href="https://www.python.org/downloads/release/python-3119/">Python 3.11.9</a> version.
 -  Git clone this repository.
+-  In the project root run pip install pipenv
+-  Run pipenv install
+-  Now you can start the virtual env, run pipenv shell
+-  Everything ok you can run the project typing py manage.py runserver
