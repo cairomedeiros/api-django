@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 pymongo = "*"
 python-dotenv = "*"
+pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
 
